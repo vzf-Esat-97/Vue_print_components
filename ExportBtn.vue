@@ -99,7 +99,7 @@ export default {
   margin-right: 10px;
   .tableDataAll {
     width: 100%;
-    #printContent {
+    #exportContent {
       width: 100%;
       text-align: center;
       td {
